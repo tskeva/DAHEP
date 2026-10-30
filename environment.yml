@@ -1,0 +1,22 @@
+name: cms
+channels:
+  - conda-forge
+dependencies:
+  - uproot
+  - vector
+  - hist
+  - scipy
+  - matplotlib
+  - pandas
+  - root
+  - jupyterlab
+  - awkward
+  - coffea
+  - xrootd
+  - iminuit
+  - numpy
+  - mplhep
+  - git
+  - pip
+  - pip:
+      - pyhepmc3==3.3.1
